@@ -10,10 +10,6 @@
   "author": "Mr_Unknown",
   "license": "UNLICENSED",
   "dependencies": {
-    "discord.js": "^12.5.3",
-    "dotenv": "^10.0.0",
-    "googleapis": "^83.0.0",
-    "node-fetch": "^2.6.1",
-    "nodemon": "^2.0.12"
+    "discord.js": "^12.5.3"
   }
 }
